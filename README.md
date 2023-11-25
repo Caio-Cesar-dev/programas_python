@@ -15,3 +15,19 @@
 11. Indice de massa corporal
 12. Gerenciador de pagamneto
 13. Game_pedra_papel_tesoura
+14. Contagem regressiva
+15. Contagem de pares
+16. Soma ímpares e multiplos de 3
+17. Tabuada v.2.0
+18. Soma dos pares
+19. Progressão aritmética
+20. Números primos
+21. Detector de palíndromo
+22. Grupo da maioridade
+23. Maior e menor da sequência
+24. Analizador completo
+25. Validação de dados
+26. Jogo da adivinhação v.2.0
+27. Criando um menu de opções
+28. Progressão aritmática v.2.0
+29. Sequência de Fibonacci v.1.0
