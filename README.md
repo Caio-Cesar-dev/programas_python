@@ -1,4 +1,4 @@
-# Pequenos Programas em Python 
+# Série: Pequenos Programas em Python 
 ### Coleção de varios programas básicos em python.
 
 1. Unindo dicionários e listas
