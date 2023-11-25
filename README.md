@@ -29,5 +29,6 @@
 25. Validação de dados
 26. Jogo da adivinhação v.2.0
 27. Criando um menu de opções
-28. Progressão aritmática v.2.0
-29. Sequência de Fibonacci v.1.0
+28. Calculo do fatorial
+29. Progressão aritmática v.2.0
+30. Sequência de Fibonacci v.1.0
